@@ -1,0 +1,35 @@
+.Dias{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.Horarios{
+    font-family: cursive;
+    font-size: 22px;
+}
+.Lunes{
+    color: rgb(173, 230, 176);
+}
+
+.Martes{
+    color: rgb(129, 129, 228);
+}
+
+.Miercoles{
+    color: rgb(250, 7, 217);
+}
+
+.Jueves{
+    color: rgb(236, 238, 130);
+}
+
+.Viernes{
+    color: rgb(207, 16, 207);
+}
+
+.Sabado{
+    color: rgb(240, 58, 58);
+}
+.Domingo{
+    color: rgb(240, 58, 58);
+}

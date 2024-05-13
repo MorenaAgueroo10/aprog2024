@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+}
+
+
+.Dias{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.Horarios{
+    font-family: cursive;
+    font-size: 22px;
+}
+.Lunes{
+    color: rgb(173, 230, 176);
+}
+
+.Martes{
+    color: rgb(129, 129, 228);
+}
+
+.Miercoles{
+    color: rgb(250, 7, 217);
+}
+
+.Jueves{
+    color: rgb(236, 238, 130);
+}
+
+.Viernes{
+    color: rgb(207, 16, 207);
+}
+
+.Sabado{
+    color: rgb(240, 58, 58);
+}
+.Domingo{
+    color: rgb(240, 58, 58);
+}
+
+.header1{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: burlywood;
+    display: flex;
+    
+}
+.nav{    
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-decoration: none;
+    display: flex;
+    color: black;
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.footer1{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(193, 219, 231);
+}
+.formulario{
+    display: flex;
+   flex-direction: column;
+   width: 200px;
+   border: 2px solid #c93384;
+   background-color: #fdcae1;
+    box-shadow: 0 8px 20px rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 15px;
+    gap: 10px;
+}
+.btn.btn-enviar{
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);    
+    background-color: #eb429c;
+ 
+}
